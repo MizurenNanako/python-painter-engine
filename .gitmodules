@@ -1,0 +1,3 @@
+[submodule "lib/PainterEngine"]
+	path = lib/PainterEngine
+	url = https://github.com/matrixcascade/PainterEngine.git
